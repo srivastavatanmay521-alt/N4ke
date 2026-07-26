@@ -41,10 +41,10 @@ for i, char in enumerate(banner):
 print("\033[0m")
 
 print(Fore.RED + """
-                                             Made by Spyaro
+                                             Made by void
                                                 Contact:
-                                          My Discord: spyaro
-                                Server for support: https://discord.gg/nuking""" + Fore.CYAN + """
+                                          vo_id.js
+                                Server for support: https://discord.gg/codez""" + Fore.CYAN + """
                                     Press F1 anytime to restart the tool
 """)
 
